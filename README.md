@@ -10,7 +10,7 @@ Players move on an MxM chess board, taking turns. During each turn, a player can
 
 ## AI Agent - StudentAgent
 
-The `StudentAgent` uses the MCTS algorithm to predict the best moves. Dive into the `student_agent.py` file to see how the agent uses simulations to determine the next action.
+Using the power of the Monte Carlo Tree Search (MCTS) algorithm, this agent simulates possible future game states to determine its best move. It's been designed not just to play but to excel. Dive into the student_agent.py to explore how it works.
 
 ## How to Play
 
